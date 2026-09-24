@@ -141,7 +141,8 @@ def room30():
 
 def room31():
     #room31
-    print("This door is locked.")
+    #Karl Kottman
+    print("Musical Odyssey")
 
 def room32():
     #room32
