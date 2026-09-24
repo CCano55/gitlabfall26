@@ -57,8 +57,9 @@ def room11():
     print("This door is locked.")
 
 def room12():
+    #Ceiry Moline
     #room12
-    print("This door is locked.")
+    print("Ceiry's Game!")
 
 def room13():
     #room13
