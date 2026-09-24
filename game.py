@@ -61,7 +61,8 @@ def room12():
 
 def room13():
     #room13
-    print("This door is locked.")
+    #Muhammad Mahmood
+    print("Fallout 389")
 
 def room14():
     #room14
