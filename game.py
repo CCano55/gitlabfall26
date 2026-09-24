@@ -30,7 +30,8 @@ def room4():
 
 def room5():
     #room5
-    print("This door is locked.")
+    #Carmen Aguilar-Reyes
+    print("Legendary Adventurer")
 
 def room6():
     #room6
