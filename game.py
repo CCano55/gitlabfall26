@@ -34,7 +34,8 @@ def room5():
 
 def room6():
     #room6
-    print("This door is locked.")
+    #Angela Vasquez
+    print("Welcome to The Halloween Adventure Park!")
 
 def room7():
     #room7
