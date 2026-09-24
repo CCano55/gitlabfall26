@@ -106,7 +106,9 @@ def room20():
 
 def room21():
     #room21
-    print("This door is locked.")
+    #Dawei Sun
+    print("The Lost Jade Pendant")
+
 
 def room22():
     #room22
