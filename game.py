@@ -25,7 +25,8 @@ def room3():
 
 def room4():
     #room4
-    print("This door is locked.")
+    #Alejandra Ibarra
+    print("Pokemon Master")
 
 def room5():
     #room5
