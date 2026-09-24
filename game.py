@@ -82,7 +82,8 @@ def room15():
 
 def room16():
     #room16
-    print("This door is locked.")
+    # Moshe Molcho
+    print("Escape the Possessed Math Classroom")
 
 def room17():
     #room17
