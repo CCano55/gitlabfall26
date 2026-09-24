@@ -21,7 +21,8 @@ def room2():
 
 def room3():
     #room3
-    print("This door is locked.")
+    #Arpita Shah
+    print("Let's Mathify this game.")
 
 def room4():
     #room4
