@@ -102,6 +102,7 @@ def room22():
 
 def room23():
     #room23
+    #Mario Magallanes
     print("")
     print("Video Game Labyrinth")
 
