@@ -82,7 +82,8 @@ def room17():
 
 def room18():
     #room18
-    print("This door is locked.")
+    #Cesar Cano
+    print("Dark Gengar.")
 
 def room19():
     #room19
