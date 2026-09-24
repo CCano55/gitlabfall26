@@ -50,7 +50,8 @@ def room9():
 
 def room10():
     #room10
-    print("This door is locked.")
+    #lauren bowman
+    print("The Music Career Game!")
 
 def room11():
     #room11
